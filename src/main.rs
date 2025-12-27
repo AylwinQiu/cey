@@ -1,5 +1,5 @@
 use cey;
-use std::{io, fs};
+use std::{fs};
 
 // Tis function will return the 
 fn read_from_file(path: &str) -> Vec<char> {
